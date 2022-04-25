@@ -44,7 +44,7 @@ var_dump($d<=$b);echo"<br><br>";
 // > Mayor o igual
 var_dump($a>=$b);echo"<br>";
 var_dump($c>=$b);echo"<br>";
-var_dump($d=>$b);echo"<br><br>";
+var_dump($d>=$b);echo"<br><br>";
 
 
 ?>
