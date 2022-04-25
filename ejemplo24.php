@@ -15,7 +15,7 @@ $Bono = 100000;
 
 if($Ventas >= 10000000 || $SB<1100000){
     echo "El empleado <b>$Nombre_Empleado</b> Tiene derecho a un apoyo de <b> $Bono </b> COP <br>";
-    $SN = $SB + $BONO;
+    $SN = $SB + $Bono;
     echo "El salario basico del empleado <b> $Nombre_Empleado</b> es de : <b>$SB</b> COP <br>";
     echo "El salario neto del empleado <b> $Nombre_Empleado </b> es de : <b> $SN </b> COP <br>";
 }else{

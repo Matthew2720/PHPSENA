@@ -12,7 +12,7 @@
     $b = readline("Ingrese el segundo numero");
     $r = ($a<=3 and $b <> 9);
 
-    if($resultado == true){
+    if($r == true){
         echo "Se cumple la condicion";
     }else{
         echo "No se cumple la condicion";

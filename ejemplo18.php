@@ -9,7 +9,7 @@
 <body>
 <?php
     /* pedir un numero al usuario y mostrar el resultado de multiplicarlo por 100 solo en el caso que sea mayor de 500 */
-    $num = readlin("Ingresa un numero:  <br>");
+    $num = readline("Ingresa un numero:  <br>");
 
     if($num >=500){
         $num = $num * 100;
