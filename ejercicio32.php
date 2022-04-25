@@ -81,8 +81,6 @@
             echo "Su salario neto es $Salario_N<br>";
         endif;
     endif;
-
-
 ?>
 </body>
 </html>
