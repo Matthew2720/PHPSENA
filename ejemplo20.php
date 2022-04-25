@@ -11,7 +11,7 @@
 $numero1 = readline("Ingresa el primer numero <br>");
 $numero2 = readline("Ingresa el segundo numero <br>");
 
-if($numero1>=numero2){
+if($numero1>=$numero2){
     echo "El numero $numero1 es mayor o igual a $numero2";
 }else{
     echo "El numero $numero2 es mayor o igual a $numero1";
